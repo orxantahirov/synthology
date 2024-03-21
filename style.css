@@ -34,6 +34,7 @@
 .left_img img {
   width: 100%;
   height: 100%;
+  object-fit: contain;
   /* object-fit: cover;
   -webkit-object-fit: cover;
   -moz-object-fit: cover;
